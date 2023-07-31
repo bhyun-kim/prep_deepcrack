@@ -10,13 +10,13 @@ If you wish to use the DeepCrack dataset with the modified labels, please downlo
 
 ## To get started
 
-### Installation
+#### 1\. Install requirements
 
 ```
 pip install -r requirements.txt
 ```
 
-Run Script
+#### 2\. Run Script
 
 ```
 python prep_deepcrack.py --path "path_to_dataset"
