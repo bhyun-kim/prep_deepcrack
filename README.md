@@ -4,7 +4,7 @@ This repository provides a simple code for converting the format of the [DeepCra
 
 The 'prep_deepcrack.py' script included in this repository enables users to convert the DeepCrack dataset into a more compatible format with other datasets. Specifically, it converts the pixel values of the label images to binary values \[0, 1\], ensuring seamless integration with other datasets requiring mutli-class labels. The converted labels are saved with the suffix '\_binary_label.png' for easy identification.
 
-If you wish to use the DeepCrack dataset with the modified labels, please download the original dataset from the following link: \[[dropbox](https://www.dropbox.com/s/sfz7avv9zlathte/preprocessed_deepcrack.zip?dl=0)\].
+If you wish to use the DeepCrack dataset with the modified labels, please download the preprocessed dataset from the following link: \[[dropbox](https://www.dropbox.com/s/sfz7avv9zlathte/preprocessed_deepcrack.zip?dl=0)\].
 
 ---
 
