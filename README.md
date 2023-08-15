@@ -21,3 +21,7 @@ pip install -r requirements.txt
 ```
 python prep_deepcrack.py --path "path_to_dataset"
 ```
+
+## Updates
+
+* Add prep_crack500.py to preprocess CRACK500 dataset in the same manner with DeepCrack preprocessing.
